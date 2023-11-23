@@ -8,8 +8,8 @@ Calculated cost function using numpy and matplotlib
 Neural network that recognizes a number based on pixel values. Completed with numpy and matplotlib
 
 ### WEEK3
-Image recognition using keras library, and a jupiter notebook for exploring a housing dataset
+Image recognition using keras library, and a jupyter notebook for exploring a housing dataset
 
 ### WEEK4
-Evaluate different models on a breastcancer dataset using jupiter notebook and scikitlearn
+Evaluate different models on a breastcancer dataset using jupyter notebook and scikitlearn
 
